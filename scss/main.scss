@@ -1,0 +1,17 @@
+@import "./utils/variables";
+@import "./base/reset";
+@import "./base/common";
+@import "./components/container";
+@import "./utils/hidden";
+@import "./components/modal";
+
+@import "./layout/header";
+@import "./layout/introduction";
+@import "./layout/benefits";
+@import "./layout/ocupation";
+@import "./layout/team";
+@import "./layout/clients";
+@import "./layout/footer";
+
+//PORTFOLIO
+@import "./layout/selection"
